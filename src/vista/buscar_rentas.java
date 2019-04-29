@@ -137,7 +137,7 @@ public class buscar_rentas extends javax.swing.JFrame {
         } catch (Exception e) {
             System.out.println(e.toString());
         }
-        jButton2.setVisible(true);
+        jButton2.setEnabled(true);
         jButton1.setEnabled(false);
     }//GEN-LAST:event_jButton1ActionPerformed
 
